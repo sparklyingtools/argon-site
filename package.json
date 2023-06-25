@@ -21,9 +21,9 @@
     "argon-design-system",
     "argon-design-system-react",
     "design-system-react"
-
+  ],
   "author": "Sparklingtools",
-  "license": "MIT",
+  "license": "MIT",  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
